@@ -1,0 +1,63 @@
+.syne-tactile-regular {
+  font-family: "Syne Tactile", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#page-1-body {
+  background-color: black;
+}
+
+#page-2-body {
+  background-image: url("../IMG/zeeb.jpg");
+  background-size: 5%;
+}
+
+h1,
+h2,
+p {
+  color: whitesmoke;
+  background-color: black;
+}
+
+h1,
+h2 {
+  font-family: "Syne Tactile";
+}
+
+.center-images {
+  width: 70%;
+  margin: auto;
+  display: block;
+}
+
+section {
+  display: flex;
+  justify-content: space-around;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+#image-close {
+  width: 55%;
+  margin: auto;
+}
+
+.center-section {
+  align-items: center;
+}
+
+#logo-center {
+  align-items: center;
+  margin-top: 175px;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  box-sizing: border-box;
+
+  border: 15px solid black;
+}
