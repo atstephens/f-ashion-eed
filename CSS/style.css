@@ -1,5 +1,17 @@
+.tiny5-regular {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .syne-tactile-regular {
   font-family: "Syne Tactile", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.vt323-regular {
+  font-family: "VT323", monospace;
   font-weight: 400;
   font-style: normal;
 }
@@ -20,15 +32,25 @@ p {
   background-color: black;
 }
 
-h1,
+h1 {
+  font-family: "Tiny5";
+}
+
 h2 {
   font-family: "Syne Tactile";
 }
 
-.center-images {
-  width: 70%;
+p {
+  font-family: "VT323";
+}
+
+#teeth {
+  width: 50%;
   margin: auto;
   display: block;
+  background-color: black;
+  padding: 60px 10% 60px 10%;
+  margin-top: 5px;
 }
 
 section {
@@ -59,5 +81,127 @@ body {
   min-height: 100vh;
   box-sizing: border-box;
 
-  border: 15px solid black;
+  border: 30px solid black;
+}
+
+#bordernesslock {
+  background-color: black;
+  padding: 10px 50px 10px 50px;
+  margin: 15px auto 15px auto;
+  margin-top: 10%;
+  width: 20%;
+  text-align: center;
+}
+
+.layercloset1 .top {
+  margin-top: -80px;
+}
+
+#bordernesslefleur {
+  background-color: black;
+  padding: 20px 20px 25px 20px;
+  margin: auto;
+  margin-top: 15%;
+  width: 50%;
+  text-align: center;
+}
+
+#bordernesswoke {
+  background-color: black;
+  padding: 40px 60px 40px 60px;
+  margin-top: 10%;
+  width: 30%;
+}
+
+#bordernessfword {
+  background-color: black;
+  padding: 50px 60px 50px 60px;
+  margin-top: 10%;
+  width: 35%;
+}
+
+#bordernesscurly {
+  background-color: black;
+  padding: 50px 1.5in 10px 50px;
+  margin: 15px auto 15px auto;
+  margin-top: 10%;
+  width: 20%;
+  text-align: left;
+}
+
+#bordernessalt {
+  background-color: black;
+  padding: 50px 1.5in 10px 50px;
+  margin: 15px auto 15px auto;
+  margin-top: 10%;
+  width: 20%;
+  text-align: right;
+}
+
+#bordernessmusic {
+  background-color: black;
+  padding: 5px 5px 5px 5px;
+  margin-top: 10%;
+  width: 30%;
+  text-align: center;
+}
+#bordernessmom {
+  background-color: black;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10%;
+  width: 30%;
+  text-align: center;
+}
+
+#bordernesslv {
+  background-color: black;
+  padding: 5px 5px 5px 5px;
+  margin-top: 10%;
+  width: 30%;
+  text-align: center;
+}
+
+#bordernessbs {
+  background-color: black;
+  padding: 10px 10px 10px 10px;
+  margin-top: 10%;
+  width: 30%;
+  text-align: center;
+}
+
+#bordernessbee {
+  background-color: black;
+  padding: 10px 30px 10px 30px;
+  margin-top: 10%;
+  width: 30%;
+  text-align: center;
+}
+
+.bordernessstyle {
+  background-color: black;
+  padding: 40px 20px 40px 20px;
+  margin: 15px auto 15px auto;
+  margin-top: 10%;
+  width: 20%;
+  text-align: center;
+}
+
+.bordernessinsta {
+  background-color: black;
+  padding: 40px 70px 40px 50px;
+  margin: 15px auto 15px auto;
+  margin-top: 10%;
+  width: 20%;
+  text-align: center;
+}
+
+#bordenessmood {
+  background-color: black;
+  padding: 10px 100px 10px 100px;
+  margin-top: 10%;
+  width: 37%;
+  text-align: center;
+}
+footer {
+  text-align: center;
 }
