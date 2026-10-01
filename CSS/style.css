@@ -97,6 +97,33 @@ body {
   margin-top: -80px;
 }
 
+.layercloset2 .top {
+  margin-top: -80px;
+  position: relative;
+  bottom: 30px;
+}
+
+.layercloset3 .top {
+  margin-top: -80px;
+  position: relative;
+  left: 120px;
+  bottom: 30px;
+}
+
+.layercloset4 .top {
+  margin-top: -80px;
+  position: relative;
+  left: 170px;
+  bottom: 30px;
+}
+
+.layercloset5 .top {
+  margin-top: -80px;
+  position: relative;
+  left: 50px;
+  bottom: 30px;
+}
+
 #bordernesslefleur {
   background-color: black;
   padding: 20px 20px 25px 20px;
@@ -109,14 +136,14 @@ body {
 #bordernesswoke {
   background-color: black;
   padding: 40px 60px 40px 60px;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 30%;
 }
 
 #bordernessfword {
   background-color: black;
   padding: 50px 60px 50px 60px;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 35%;
 }
 
@@ -124,7 +151,7 @@ body {
   background-color: black;
   padding: 50px 1.5in 10px 50px;
   margin: 15px auto 15px auto;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 20%;
   text-align: left;
 }
@@ -133,7 +160,7 @@ body {
   background-color: black;
   padding: 50px 1.5in 10px 50px;
   margin: 15px auto 15px auto;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 20%;
   text-align: right;
 }
@@ -141,14 +168,14 @@ body {
 #bordernessmusic {
   background-color: black;
   padding: 5px 5px 5px 5px;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 30%;
   text-align: center;
 }
 #bordernessmom {
   background-color: black;
   padding: 10px 10px 10px 10px;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 30%;
   text-align: center;
 }
@@ -156,7 +183,7 @@ body {
 #bordernesslv {
   background-color: black;
   padding: 5px 5px 5px 5px;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 30%;
   text-align: center;
 }
@@ -181,7 +208,7 @@ body {
   background-color: black;
   padding: 40px 20px 40px 20px;
   margin: 15px auto 15px auto;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 20%;
   text-align: center;
 }
@@ -190,7 +217,7 @@ body {
   background-color: black;
   padding: 40px 70px 40px 50px;
   margin: 15px auto 15px auto;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 20%;
   text-align: center;
 }
@@ -198,7 +225,7 @@ body {
 #bordenessmood {
   background-color: black;
   padding: 10px 100px 10px 100px;
-  margin-top: 10%;
+  margin-top: 5%;
   width: 37%;
   text-align: center;
 }
